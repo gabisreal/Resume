@@ -1,0 +1,29 @@
+ul{
+	font-family: monospace;
+	text-align: left;
+	font-size: medium;
+}
+
+h2{
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.fonts{
+	font-family: arial;
+	letter-spacing: 1px;
+	font-size: medium;
+	color: #076965;
+}
+
+.font1{
+	font-family: papyrus;
+	
+}
+
+.bord{
+	border-style: inset;
+	border-width: 3px;
+	border-color: #014761; 
+	background-color: #bcc5d4;
+}
