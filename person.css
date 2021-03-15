@@ -1,0 +1,21 @@
+ul{
+	font-family: monospace;
+	text-align: left;
+	font-size: medium;
+}
+
+h2{
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.fonts{
+	font-family: arial;
+	letter-spacing: 1px;
+	font-size: medium;
+}
+.bord{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #730707; 
+}

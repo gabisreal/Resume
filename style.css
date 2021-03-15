@@ -1,0 +1,21 @@
+ul{
+	font-family: monospace;
+	text-align: left;
+	color: blue;
+	font-size: medium;
+
+}
+
+h2{
+	font-weight: normal;
+	font-family: verdana;
+}
+
+h5{
+	line-height: 1px;
+	font-size: small;
+	word-spacing: 2px;
+	font-family: verdana;
+	font-weight: normal;
+}
+

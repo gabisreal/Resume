@@ -1,0 +1,25 @@
+ul{
+	font-family: monospace;
+	text-align: left;
+	font-size: medium;
+}
+
+h2{
+	font-family: verdana;
+	font-weight: bold;
+	font-style: italic;
+}
+
+div{
+	border-style: groove;
+	border-width: 4px;
+	border-color: red; 
+	background-color: #4a5250;
+}
+
+table{
+	font-family: garamond;
+	letter-spacing: 1px;
+	font-size: large;
+	color: #07e3e3;
+}

@@ -1,0 +1,21 @@
+ul{
+	font-family: monospace;
+	text-align: left;
+	font-size: medium;
+}
+
+h2{
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.font1{
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+.bord{
+	border: solid;
+	border-color: gray;
+	border-width: 2px;
+}
